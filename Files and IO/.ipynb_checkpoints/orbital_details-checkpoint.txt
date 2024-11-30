@@ -1,0 +1,8 @@
+Mercury - Orbital periods (Earth years): 0.24 | Axial tilts (deg): 0.03 
+Venus - Orbital periods (Earth years): 0.62 | Axial tilts (deg): 177.36 
+Mars - Orbital periods (Earth years): 1.0 | Axial tilts (deg): 23.44 
+Earth - Orbital periods (Earth years): 1.88 | Axial tilts (deg): 25.19 
+Jupiter - Orbital periods (Earth years): 11.86 | Axial tilts (deg): 3.13 
+Saturn - Orbital periods (Earth years): 29.46 | Axial tilts (deg): 26.73 
+Uranus - Orbital periods (Earth years): 84.01 | Axial tilts (deg): 82.33 
+Neptune - Orbital periods (Earth years): 164.8 | Axial tilts (deg): 28.32 
